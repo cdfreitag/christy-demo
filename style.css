@@ -9,6 +9,12 @@ body {
     font-family: "Times New Roman";
     border: 1px; }
    
+    h2 {
+      font-size: 2em;
+      color: #067593;
+      font-family: "Times New Roman";
+      border: 1px; }
+     
   
   
   .pull-quote blockquote {
@@ -45,7 +51,7 @@ body {
   
   /*responsive design */
   #content {
-    width: 60%;
+    width: 50%;
     margin: auto;
   }
   @media (orientation: portrait) 
